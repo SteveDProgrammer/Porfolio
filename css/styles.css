@@ -103,14 +103,16 @@ a {
 
 .top-cloud {
   position: absolute;
-  right: 20%;
-  top: 50px;
+  right: 15%;
+  top: 100px;
+  width: 15%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 20%;
-  bottom: 300px;
+  left: 15%;
+  bottom: 250px;
+  width: 15%;
 }
 
 .custom-btn {
@@ -168,4 +170,8 @@ a {
   color: white;
   font-size: 0.75rem;
   margin-bottom: 0;
+}
+
+.copyright{
+  padding-top: 20px;
 }
