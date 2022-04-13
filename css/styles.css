@@ -85,6 +85,11 @@ a {
   margin: 100px 0;
 }
 
+.profile > i {
+  font-size: xx-large;
+  margin: 0 25px;
+}
+
 .mid-container{
   margin: 100px 0;
 }
@@ -103,16 +108,16 @@ a {
 
 .top-cloud {
   position: absolute;
-  right: 15%;
+  right: 20%;
   top: 100px;
-  width: 15%;
+  width: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 15%;
+  left: 20%;
   bottom: 250px;
-  width: 15%;
+  width: 10%;
 }
 
 .custom-btn {
